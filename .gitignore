@@ -1,2 +1,8 @@
 bitQuery/node_modules
 Ethernaut/node_modules
+Ethernaut/Level5/*.env
+Ethernaut/Level6/*.env
+Ethernaut/Level7/*.env
+Ethernaut/Level2/*.env
+Ethernaut/Level3/*.env
+Ethernaut/Level4/*.env
